@@ -232,7 +232,7 @@ npm start
 Este proyecto necesita el servidor de autenticación:
 
 ```bash
-spotify-clone-server
+Spotify-Clone-Authentication-Server
 ```
 
 El servidor maneja:
