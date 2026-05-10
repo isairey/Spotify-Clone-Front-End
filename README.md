@@ -173,7 +173,7 @@ La aplicación consume:
 # 📂 Estructura del Proyecto
 
 ```bash
-spotify-clone-client/
+Spotify-Clone-Front-End/
 │
 ├── public/                  # Archivos públicos
 ├── src/
@@ -196,7 +196,7 @@ spotify-clone-client/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/JL978/spotify-clone-client.git
+git clone https://github.com/isairey/Spotify-Clone-Front-End.git
 ```
 
 ---
@@ -204,7 +204,7 @@ git clone https://github.com/JL978/spotify-clone-client.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd spotify-clone-client
+cd Spotify-Clone-Front-End
 ```
 
 ---
@@ -356,7 +356,7 @@ git push origin feature/nueva-funcion
 
 <div align="center">
 
-## JL978
+## Isai Reyes
 
 Frontend Developer apasionado por React, aplicaciones multimedia y plataformas de streaming modernas.
 
